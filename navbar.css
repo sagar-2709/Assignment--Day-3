@@ -1,0 +1,33 @@
+#nav{
+    text-align: right;
+    color: antiquewhite;
+    background: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    padding: 10px 20px 10px 0px;
+    margin: 0;
+    font-family: arial;
+    background-size: cover;
+
+}
+#nav a{
+    text-decoration: none;
+    font-weight: 300;
+    color: rgb(58, 51, 153);
+    padding: 2px;
+    border: 0.7px solid rgb(58, 51, 153);
+    border-radius: 20px;
+    background-color: chartreuse;
+}
+
+#nav a:hover{
+    font-weight: 300;
+    color: black;
+    background: yellow;
+    padding: 5px;
+}
+
+
+.s1{
+    color: rgb(58, 51, 153);
+    font-weight: 800;
+    padding-right: 980px;
+}
